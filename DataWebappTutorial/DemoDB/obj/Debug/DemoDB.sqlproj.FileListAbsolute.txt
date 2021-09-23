@@ -1,0 +1,10 @@
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\bin\Debug\DemoDB.dacpac
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\bin\Debug\DemoDB.dll
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\bin\Debug\DemoDB.pdb
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\obj\Debug\DemoDB.sqlprojAssemblyReference.cache
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\obj\Debug\Model.xml
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\obj\Debug\refactor.xml
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\obj\Debug\postdeploy.sql
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\obj\Debug\predeploy.sql
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\obj\Debug\DemoDB.dll
+C:\Users\viczj\source\repos\DataWebappTutorial\DemoDB\obj\Debug\DemoDB.pdb
